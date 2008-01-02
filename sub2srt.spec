@@ -11,6 +11,7 @@ URL:		http://www.robelix.com/sub2srt/
 Group:		Video
 Source0:	http://www.robelix.com/sub2srt/download/%name-%version.tar.bz2
 License:	GPL
+BuildRoot:	%{_tmppath}/%{name}-root
 BuildArch:	noarch
 
 %description
