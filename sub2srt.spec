@@ -1,7 +1,7 @@
 
 %define name	sub2srt
 %define version	0.5.3
-%define rel	2
+%define rel	3
 
 Summary:	Convert subtitles from .sub to subviewer .srt format
 Name:		%name
