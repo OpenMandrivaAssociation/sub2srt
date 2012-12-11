@@ -35,3 +35,26 @@ rm -rf %{buildroot}
 %{_bindir}/%{name}
 
 
+
+
+%changelog
+* Tue Sep 08 2009 Thierry Vignaud <tvignaud@mandriva.com> 0.5.3-3mdv2010.0
++ Revision: 434140
+- rebuild
+
+* Wed Jan 02 2008 Olivier Blin <oblin@mandriva.com> 0.5.3-2mdv2008.1
++ Revision: 140863
+- restore BuildRoot
+
+  + Thierry Vignaud <tvignaud@mandriva.com>
+    - kill re-definition of %%buildroot on Pixel's request
+
+
+* Fri Jan 05 2007 Anssi Hannula <anssi@mandriva.org> 0.5.3-2mdv2007.0
++ Revision: 104554
+- rebuild
+- Import sub2srt
+
+* Fri Dec 23 2005 Anssi Hannula <anssi@mandriva.org> 0.5.3-1mdk
+- initial Mandriva package
+
