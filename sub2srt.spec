@@ -7,7 +7,7 @@ Summary:	Convert subtitles from .sub to subviewer .srt format
 Name:		%name
 Version:	%version
 Release:	%mkrel %rel
-URL:		http://www.robelix.com/sub2srt/
+URL:		https://www.robelix.com/sub2srt/
 Group:		Video
 Source0:	http://www.robelix.com/sub2srt/download/%name-%version.tar.bz2
 License:	GPL
